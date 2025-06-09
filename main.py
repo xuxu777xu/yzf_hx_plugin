@@ -6,7 +6,7 @@ from rapidocr_onnxruntime import RapidOCR
 import cv2, os, re
 from pyzbar.pyzbar import decode
 
-@register("今日新闻", "egg", "60秒国内新闻", "1.0.0", "https://github.com/bbpn-cn/headline")
+@register("今日新闻", "egg", "60秒国内新闻", "1.0.0", "https://github.com/xuxu777xu/yzf_hx_plugin")
 class HXPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
