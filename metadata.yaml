@@ -1,0 +1,6 @@
+name: "hx_plugin" # 这是你的插件的唯一识别名。
+desc:  监听三张图片进行核销 # 插件简短描述
+help: 指令：/hx # 插件的帮助信息
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: xiaoxu # 作者
+repo:  https://github.com/bbpn-cn/xiaoxu   # 插件的仓库地址
